@@ -1,0 +1,96 @@
+
+
+
+Can't stop moving
+    autorunner
+    chasing wall
+    lose health when stopping
+    fast paced 
+    ink trail recedes => death 
+
+
+brush
+    painter
+
+ink dash
+    you are the brush painting your path
+
+    ink as resource
+    reach goal before ink runs out
+
+ninja name
+    Brushido
+    Inkai
+
+
+
+Tropes
+    scrolls
+    ink blots
+    shuriken
+    lanterns 
+
+
+color?
+    golden
+    black 
+    white
+    rainbow
+
+setting
+
+
+what does the ink trail do?
+    look cool
+    show last path
+    cross enemies out
+
+
+
+mechanics
+    wall jumping
+    dash
+    collect scrolls 
+    collect ink
+    bounce off 
+
+    platforming
+
+
+setting
+    you are saving a cursed scroll with your magic ink
+
+
+challenges
+    ink trail
+    dash through enemies
+    level design
+    wall slide
+    background art
+    animation
+
+
+GOAL: 5-10 minuts of super polished gameplay
+
+Time line
+
+Friday
+    [ ] hero idle, running, dash in game
+    [ ] good idea for enemies + backgrounds
+
+Sat morning
+    [ ] gameplay mechanics exploration
+    [ ] first demo level
+
+sat afternoon
+    [ ] level designs
+    [ ] let others playtest
+    [ ] game flow
+
+sat evening
+    [ ] art
+    [ ] ui
+    [ ] title
+
+sunday
+    [ ] refine levels
